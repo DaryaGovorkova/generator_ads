@@ -1,0 +1,9 @@
+2026-06-06T21:20:43.151074+0300 - ERROR - Ошибка при парсинге https://sayora.res: Cannot connect to host sayora.res:443 ssl:default [getaddrinfo failed]
+2026-06-06T21:20:43.151740+0300 - ERROR - Ошибка при парсинге https://sayora.res: Cannot connect to host sayora.res:443 ssl:default [getaddrinfo failed]
+2026-06-06T21:20:43.151960+0300 - WARNING - Сайт https://sayora.res недоступен. Пропускаем генерацию.
+2026-06-06T21:20:43.234264+0300 - INFO - Запрос к https://mamuka.rest/ выполнен успешно
+2026-06-06T21:20:43.271560+0300 - INFO - Запрос к https://yarvolga.ru/ выполнен успешно
+2026-06-06T21:20:43.299678+0300 - INFO - Запрос к https://mamuka.rest/ выполнен успешно
+2026-06-06T21:20:43.320161+0300 - INFO - Запрос к https://yarvolga.ru/ выполнен успешно
+2026-06-06T21:20:43.989180+0300 - INFO - Запрос к https://hinkali-haus.ru/ выполнен успешно
+2026-06-06T21:20:44.817512+0300 - INFO - Запрос к https://hinkali-haus.ru/ выполнен успешно
